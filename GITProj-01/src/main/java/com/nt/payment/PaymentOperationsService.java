@@ -10,7 +10,7 @@ public class PaymentOperationsService {
 		return "Debit Card Payment is done";
 	}
 	public String doUPIPaymet() {
-		return "UPI payment is done";
+		return "UPI payment is done";//123
 	}
 
 }
